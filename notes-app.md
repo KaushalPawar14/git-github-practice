@@ -1,5 +1,5 @@
-I dont know what to write. But everything is ok
-Hello everyone. I am a Student.
+# Notes App
+A simple CLI tool where users can quickly jot down daily notes and view past entries by date.
 
 PS E:\Final Roadmap Learnings\git-github\practice-repo> git revert HEAD
 error: commit 21fb371f087f959de644c994881a05f09bc395b4 is a merge but no -m option was given.
