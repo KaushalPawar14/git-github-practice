@@ -4,11 +4,14 @@ A full revision of git and github
 - Clone, commit, push, pull
 - Branches
 - Merge & merge conflicts
+- Pull request
+- Revert/Reset
+- .gitignore
 
 ## Setup
 ```bash
-git status
+git clone
 ```
 
 ## Usage
-Run `npm start` to launch the app.
+Clone this repo and explore the commit history to see each Git concept in action.
